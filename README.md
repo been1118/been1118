@@ -8,7 +8,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=been1118&layout=compact&theme=omni)
 
 
-## Stack
 <div>
     <h1 align="center"> Stack </h1>
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
