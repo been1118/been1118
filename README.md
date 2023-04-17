@@ -9,6 +9,16 @@
 
 ----
 
+<a href="https://www.instagram.com/dsin_18/">
+    <img 
+        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/alpox.dev/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+<a href="https://eastlight0418.tistory.com/">
+    <img 
+        src="https://play-lh.googleusercontent.com/HOwb9RHtv3AsCEyB-v1ni4z1TMgjqUJRP9FWFLNVsG-D8xoxxtfjGigzudTgSs0l8_g"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
 
 
 
