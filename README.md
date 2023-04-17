@@ -22,3 +22,4 @@
 
 
 ### 있지 믿지, 날자!
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&fontSize=90)
