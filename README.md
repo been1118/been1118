@@ -1,6 +1,7 @@
  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&text=Been1118%20Dev&fontSize=90)
+ 
+ 
 <div align="center">
-  <div>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=been1118&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=been1118&layout=compact&theme=omni)
@@ -20,8 +21,8 @@
         src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://alpox.kr"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-   </div>
-  </div>
+</div>
+
 
 
 ### 있지 믿지, 날자!!
