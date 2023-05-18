@@ -6,6 +6,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=been1118&layout=compact&theme=omni)
  
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=been1118&show_icons=true&theme=radical)
+ [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=a9150363a)](https://solved.ac/a9150363a/)
 
 
 <div>
